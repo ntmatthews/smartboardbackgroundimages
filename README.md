@@ -1,7 +1,7 @@
 # smartboardbackgroundimages
 A weekly updated list of background images for your SmartBoard.
 
-# Credi
+# Credits
 A link to the authers image that have been imported into the repository.
 
 Photo by Dennis Leinarts: https://www.pexels.com/photo/gray-rocks-with-moss-1437953/
